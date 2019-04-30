@@ -1,0 +1,5 @@
+When Server IP doesn't exist
+OSError => OSError: [Errno 113] No route to host
+
+When Server was kill during consumer process execution triggered by connection drain_event
+ConnectionResetError: [Errno 104] Connection reset by peer
